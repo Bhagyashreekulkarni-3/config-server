@@ -1,0 +1,10 @@
+my:
+ greeting: Hello from cloud server
+ list:
+   values: One,Two,Three
+db:
+   connection: test-connection-here
+   port: 1200
+   host: 127.0.0.1
+    
+management.endpoints.web.exposure.include: "*"
