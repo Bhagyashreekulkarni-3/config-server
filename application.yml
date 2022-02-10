@@ -1,5 +1,5 @@
 my:
- greeting: Hello from cloud server
+ greeting: Hello from cloud server Updated
  list:
    values: One,Two,Three
 db:
